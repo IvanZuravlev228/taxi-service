@@ -1,6 +1,6 @@
 <h1 align="center"><img width="75" src="https://cdn-icons-png.flaticon.com/512/6967/6967331.png"> Taxi Service <img width="75" src="https://cdn-icons-png.flaticon.com/512/6967/6967331.png"></h1>
 <h3><img width="25" src="https://cdn-icons-png.flaticon.com/512/391/391181.png"> About project </h3>
-This web application is designed to mimic a taki service. The user can add vehicle manufacturers, add car models, add drivers, connect drivers and cars
+This web application is designed to imitation taxi service. The user can add vehicle manufacturers, add car models, add drivers, connect drivers and cars
 <h3><img width="25" src="https://cdn-icons-png.flaticon.com/512/10180/10180990.png"> Project structure</h3>
 <ul>
   <li>controller
